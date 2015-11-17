@@ -1,0 +1,6 @@
+How did viewing diff help you note errors?
+
+I was able to note specific changes between two giant files. Those changes
+were brought to my attention by the software, rather than me having to muck
+around to find them myself.
+
